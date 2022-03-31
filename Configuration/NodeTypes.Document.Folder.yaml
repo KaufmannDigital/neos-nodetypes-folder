@@ -1,6 +1,6 @@
 'Breadlesscode.NodeTypes.Folder:Document.Folder':
   superTypes:
-    'Neos.Neos:Document': true
+    'Neos.Neos:Shortcut': true
     'Breadlesscode.NodeTypes.Folder:Mixin.HideUriSegment': true
   ui:
     label: 'i18n'
